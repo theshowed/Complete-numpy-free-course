@@ -1,2 +1,5 @@
-qwdvshcd hbddeshkvdjs
-numpy 
+creating arrays from python list
+
+import numpy as np 
+list_numbs = [1,10,20,40,50,60,70,80,90,100] # python built-int-list 
+array = np.array(list_numbs) # create array 
